@@ -1,0 +1,70 @@
+body {
+    font-family: Arial;
+    background:#d7d7d7;
+    font-size: 150%;
+    
+  }
+
+header {
+    margin: 15px;
+    padding: 30px;
+    text-align: center;
+    background:  #E7EFF6;
+    text-transform: uppercase;
+  }
+
+  h1 {
+    color: #000000; 
+  }
+
+  h2 {
+      background: #d7d7d7;
+      color: #000000;
+      display: inline-block;
+      text-transform: uppercase;
+  }
+
+  nav {
+    margin: 15px;
+    background-color:#d7d7d7;
+    padding: 15px;
+    text-align: center;
+    font-variant: small-caps;
+  }
+
+  .FavoriteFoods{
+    margin: 15px;
+    background-color: #e0ffff;
+    padding: 20px;
+    text-transform: uppercase;
+  }
+
+  .Achievements{
+    margin: 15px;
+    background-color:#e0ffff;
+    padding: 50px;
+    text-transform: uppercase;
+  }
+
+  .AboutMe{
+    margin: 15px;
+    background-color:#e0ffff;
+    padding: 50px;
+    text-transform: uppercase;
+  }
+
+  details{
+      font-style: italic;
+  }
+
+  summary{
+      font-style: italic;
+  }
+
+  footer {
+    padding: 30px;
+    text-align: center;
+    background:#d7d7d7;
+    margin-top: 10px;
+    text-transform: uppercase;
+  }
